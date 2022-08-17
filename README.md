@@ -1,5 +1,8 @@
 
-I made a color picker with realtime working backend when you change the color in a tab , background and the  other tabs changing at the same time
+## I made a color picker with realtime working backend when you change the color in a tab , background and the  other tabs changing at the same time
+<br>
+![Ekran görüntüsü 2022-08-17 153800](https://user-images.githubusercontent.com/100142188/185127708-1d858edf-b0b3-4858-9faa-adfcce77ad09.png)
+![Ekran görüntüsü 2022-08-17 153659](https://user-images.githubusercontent.com/100142188/185127746-a09eefed-ea86-4111-acdb-a763731b973b.png)
 
 
 
